@@ -1,11 +1,6 @@
-@font-face {
-    font-family: 'kingthings';
-    src: url('fonts/kingthings.ttf') format('truetype');
-}
-
-/* h1{
-    font-family: 'kingthings'!important;
-} */
+#cta-hero {
+    text-shadow: grey 1px 1px 1px;
+   }
 
 .text-center-black address, .text-center-black li {
     color: #575757 !important;
@@ -809,10 +804,6 @@ h4 {
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
-}
-
-.bgc-dark-slate-blue {
-    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
